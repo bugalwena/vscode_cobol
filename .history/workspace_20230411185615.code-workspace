@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[COBOL]": {
+			"editor.semanticHighlighting.enabled": true,
+			"files.autoGuessEncoding": false,
+			"editor.snippetSuggestions": "bottom",
+			"editor.guides.bracketPairs": "active",
+			"editor.autoIndent": "advanced",
+			"editor.insertSpaces": true,
+			"editor.formatOnType": true,
+			"editor.rulers": [
+				6,
+				7,
+				11,
+				72
+			],
+			"editor.detectIndentation": false,
+			"editor.useTabStops": false,
+			"editor.wordSeparators": "`~!@$%^&*()=+[{]}\\|;:'\",.<>/?",
+			"editor.guides.indentation": false
+		},
+		"coboleditor.preprocessor_extensions": [
+		],
+		"coboleditor.metadata_symbols": [
+			"sample,issue189_coboldoc.cbl,5",
+			"fred,rainbow_code.cbl,1"
+		],
+		"coboleditor.metadata_entrypoints": [],
+		"coboleditor.metadata_types": [
+			"T,issue189,issue189_msdn.cbl,4"
+		],
+		"coboleditor.metadata_files": [
+			"1598470462548,src/test/suite/issue189_coboldoc.cbl",
+			"1598469615592,src/test/suite/issue189_msdn.cbl",
+			"1599686519024,src/test/suite/string.cbl",
+			"1597963271928,src/test/suite/test.cbl"
+		],
+		"coboleditor.metadata_knowncopybooks": [],
+		"svn.ignoreMissingSvnWarning": true
+	}
+}
