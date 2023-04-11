@@ -62,8 +62,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/bugal/OneDrive/Documents/GitHub/vscode_cobol/schemas",
-      "program": "c:/Users/bugal/OneDrive/Documents/GitHub/vscode_cobol/schemas/build/Debug/outDebug",
+      "cwd": "c:/Users/bugal/OneDrive/Documents/GitHub/vscode_cobol/images/dark",
+      "program": "c:/Users/bugal/OneDrive/Documents/GitHub/vscode_cobol/images/dark/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
